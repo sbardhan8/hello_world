@@ -1,3 +1,14 @@
-# hello_world
-just another repository
-hiiii evryone this is soumyadeep
+using system;
+namespace hello
+{
+   class hello
+   {
+      public static void main()
+      {
+      console.writeline("hello");
+      console.read();
+      
+      }
+      
+    }
+ }
